@@ -1,0 +1,10 @@
+scikit-learn==0.22.2
+pandas
+numpy
+random
+os
+scipy
+matplotlib
+time
+persim
+ripser
