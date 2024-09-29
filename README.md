@@ -3,5 +3,5 @@ This is a code and experiment reproduction project for paper “IVFS: Simple and
 
 Original paper: [IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation](https://arxiv.org/abs/2004.01299)
 
-Reproduction paper: [Reproduction of IVFS algorithm for high-dimensional topology preservation feature selection](https://arxiv.org/abs/2409.12195))
+Reproduction paper: [Reproduction of IVFS algorithm for high-dimensional topology preservation feature selection](https://arxiv.org/abs/2409.12195)
 
